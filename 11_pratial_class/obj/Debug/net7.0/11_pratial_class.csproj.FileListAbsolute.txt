@@ -1,0 +1,15 @@
+C:\Users\DKPC2022\Desktop\C#\11_pratial_class\obj\Debug\net7.0\11_pratial_class.csproj.AssemblyReference.cache
+C:\Users\DKPC2022\Desktop\C#\11_pratial_class\obj\Debug\net7.0\11_pratial_class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DKPC2022\Desktop\C#\11_pratial_class\obj\Debug\net7.0\11_pratial_class.AssemblyInfoInputs.cache
+C:\Users\DKPC2022\Desktop\C#\11_pratial_class\obj\Debug\net7.0\11_pratial_class.AssemblyInfo.cs
+C:\Users\DKPC2022\Desktop\C#\11_pratial_class\obj\Debug\net7.0\11_pratial_class.csproj.CoreCompileInputs.cache
+C:\Users\DKPC2022\Desktop\C#\11_pratial_class\bin\Debug\net7.0\11_pratial_class.exe
+C:\Users\DKPC2022\Desktop\C#\11_pratial_class\bin\Debug\net7.0\11_pratial_class.deps.json
+C:\Users\DKPC2022\Desktop\C#\11_pratial_class\bin\Debug\net7.0\11_pratial_class.runtimeconfig.json
+C:\Users\DKPC2022\Desktop\C#\11_pratial_class\bin\Debug\net7.0\11_pratial_class.dll
+C:\Users\DKPC2022\Desktop\C#\11_pratial_class\bin\Debug\net7.0\11_pratial_class.pdb
+C:\Users\DKPC2022\Desktop\C#\11_pratial_class\obj\Debug\net7.0\11_pratial_class.dll
+C:\Users\DKPC2022\Desktop\C#\11_pratial_class\obj\Debug\net7.0\refint\11_pratial_class.dll
+C:\Users\DKPC2022\Desktop\C#\11_pratial_class\obj\Debug\net7.0\11_pratial_class.pdb
+C:\Users\DKPC2022\Desktop\C#\11_pratial_class\obj\Debug\net7.0\11_pratial_class.genruntimeconfig.cache
+C:\Users\DKPC2022\Desktop\C#\11_pratial_class\obj\Debug\net7.0\ref\11_pratial_class.dll

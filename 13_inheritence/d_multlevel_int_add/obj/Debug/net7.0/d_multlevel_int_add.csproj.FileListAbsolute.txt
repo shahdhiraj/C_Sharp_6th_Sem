@@ -1,0 +1,15 @@
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\d_multlevel_int_add\bin\Debug\net7.0\d_multlevel_int_add.exe
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\d_multlevel_int_add\bin\Debug\net7.0\d_multlevel_int_add.deps.json
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\d_multlevel_int_add\bin\Debug\net7.0\d_multlevel_int_add.runtimeconfig.json
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\d_multlevel_int_add\bin\Debug\net7.0\d_multlevel_int_add.dll
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\d_multlevel_int_add\bin\Debug\net7.0\d_multlevel_int_add.pdb
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\d_multlevel_int_add\obj\Debug\net7.0\d_multlevel_int_add.csproj.AssemblyReference.cache
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\d_multlevel_int_add\obj\Debug\net7.0\d_multlevel_int_add.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\d_multlevel_int_add\obj\Debug\net7.0\d_multlevel_int_add.AssemblyInfoInputs.cache
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\d_multlevel_int_add\obj\Debug\net7.0\d_multlevel_int_add.AssemblyInfo.cs
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\d_multlevel_int_add\obj\Debug\net7.0\d_multlevel_int_add.csproj.CoreCompileInputs.cache
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\d_multlevel_int_add\obj\Debug\net7.0\d_multlevel_int_add.dll
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\d_multlevel_int_add\obj\Debug\net7.0\refint\d_multlevel_int_add.dll
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\d_multlevel_int_add\obj\Debug\net7.0\d_multlevel_int_add.pdb
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\d_multlevel_int_add\obj\Debug\net7.0\d_multlevel_int_add.genruntimeconfig.cache
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\d_multlevel_int_add\obj\Debug\net7.0\ref\d_multlevel_int_add.dll

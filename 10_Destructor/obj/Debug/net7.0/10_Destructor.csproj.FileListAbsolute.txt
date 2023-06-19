@@ -1,0 +1,15 @@
+C:\Users\DKPC2022\Desktop\C#\10_Destructor\bin\Debug\net7.0\10_Destructor.exe
+C:\Users\DKPC2022\Desktop\C#\10_Destructor\bin\Debug\net7.0\10_Destructor.deps.json
+C:\Users\DKPC2022\Desktop\C#\10_Destructor\bin\Debug\net7.0\10_Destructor.runtimeconfig.json
+C:\Users\DKPC2022\Desktop\C#\10_Destructor\bin\Debug\net7.0\10_Destructor.dll
+C:\Users\DKPC2022\Desktop\C#\10_Destructor\bin\Debug\net7.0\10_Destructor.pdb
+C:\Users\DKPC2022\Desktop\C#\10_Destructor\obj\Debug\net7.0\10_Destructor.csproj.AssemblyReference.cache
+C:\Users\DKPC2022\Desktop\C#\10_Destructor\obj\Debug\net7.0\10_Destructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DKPC2022\Desktop\C#\10_Destructor\obj\Debug\net7.0\10_Destructor.AssemblyInfoInputs.cache
+C:\Users\DKPC2022\Desktop\C#\10_Destructor\obj\Debug\net7.0\10_Destructor.AssemblyInfo.cs
+C:\Users\DKPC2022\Desktop\C#\10_Destructor\obj\Debug\net7.0\10_Destructor.csproj.CoreCompileInputs.cache
+C:\Users\DKPC2022\Desktop\C#\10_Destructor\obj\Debug\net7.0\10_Destructor.dll
+C:\Users\DKPC2022\Desktop\C#\10_Destructor\obj\Debug\net7.0\refint\10_Destructor.dll
+C:\Users\DKPC2022\Desktop\C#\10_Destructor\obj\Debug\net7.0\10_Destructor.pdb
+C:\Users\DKPC2022\Desktop\C#\10_Destructor\obj\Debug\net7.0\10_Destructor.genruntimeconfig.cache
+C:\Users\DKPC2022\Desktop\C#\10_Destructor\obj\Debug\net7.0\ref\10_Destructor.dll

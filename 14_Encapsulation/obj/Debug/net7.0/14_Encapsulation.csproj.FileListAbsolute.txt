@@ -1,0 +1,5 @@
+C:\Users\DKPC2022\Desktop\C#\14_Encapsulation\obj\Debug\net7.0\14_Encapsulation.csproj.AssemblyReference.cache
+C:\Users\DKPC2022\Desktop\C#\14_Encapsulation\obj\Debug\net7.0\14_Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DKPC2022\Desktop\C#\14_Encapsulation\obj\Debug\net7.0\14_Encapsulation.AssemblyInfoInputs.cache
+C:\Users\DKPC2022\Desktop\C#\14_Encapsulation\obj\Debug\net7.0\14_Encapsulation.AssemblyInfo.cs
+C:\Users\DKPC2022\Desktop\C#\14_Encapsulation\obj\Debug\net7.0\14_Encapsulation.csproj.CoreCompileInputs.cache

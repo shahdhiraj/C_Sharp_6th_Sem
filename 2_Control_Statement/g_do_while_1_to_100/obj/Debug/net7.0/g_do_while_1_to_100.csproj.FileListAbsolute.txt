@@ -1,0 +1,15 @@
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\g_do_while_1_to_100\bin\Debug\net7.0\g_do_while_1_to_100.exe
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\g_do_while_1_to_100\bin\Debug\net7.0\g_do_while_1_to_100.deps.json
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\g_do_while_1_to_100\bin\Debug\net7.0\g_do_while_1_to_100.runtimeconfig.json
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\g_do_while_1_to_100\bin\Debug\net7.0\g_do_while_1_to_100.dll
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\g_do_while_1_to_100\bin\Debug\net7.0\g_do_while_1_to_100.pdb
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\g_do_while_1_to_100\obj\Debug\net7.0\g_do_while_1_to_100.csproj.AssemblyReference.cache
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\g_do_while_1_to_100\obj\Debug\net7.0\g_do_while_1_to_100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\g_do_while_1_to_100\obj\Debug\net7.0\g_do_while_1_to_100.AssemblyInfoInputs.cache
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\g_do_while_1_to_100\obj\Debug\net7.0\g_do_while_1_to_100.AssemblyInfo.cs
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\g_do_while_1_to_100\obj\Debug\net7.0\g_do_while_1_to_100.csproj.CoreCompileInputs.cache
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\g_do_while_1_to_100\obj\Debug\net7.0\g_do_while_1_to_100.dll
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\g_do_while_1_to_100\obj\Debug\net7.0\refint\g_do_while_1_to_100.dll
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\g_do_while_1_to_100\obj\Debug\net7.0\g_do_while_1_to_100.pdb
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\g_do_while_1_to_100\obj\Debug\net7.0\g_do_while_1_to_100.genruntimeconfig.cache
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\g_do_while_1_to_100\obj\Debug\net7.0\ref\g_do_while_1_to_100.dll

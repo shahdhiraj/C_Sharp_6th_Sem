@@ -1,0 +1,15 @@
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\b_multiple_inheitence\obj\Debug\net7.0\b_multiple_inheitence.csproj.AssemblyReference.cache
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\b_multiple_inheitence\obj\Debug\net7.0\b_multiple_inheitence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\b_multiple_inheitence\obj\Debug\net7.0\b_multiple_inheitence.AssemblyInfoInputs.cache
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\b_multiple_inheitence\obj\Debug\net7.0\b_multiple_inheitence.AssemblyInfo.cs
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\b_multiple_inheitence\obj\Debug\net7.0\b_multiple_inheitence.csproj.CoreCompileInputs.cache
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\b_multiple_inheitence\bin\Debug\net7.0\b_multiple_inheitence.exe
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\b_multiple_inheitence\bin\Debug\net7.0\b_multiple_inheitence.deps.json
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\b_multiple_inheitence\bin\Debug\net7.0\b_multiple_inheitence.runtimeconfig.json
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\b_multiple_inheitence\bin\Debug\net7.0\b_multiple_inheitence.dll
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\b_multiple_inheitence\bin\Debug\net7.0\b_multiple_inheitence.pdb
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\b_multiple_inheitence\obj\Debug\net7.0\b_multiple_inheitence.dll
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\b_multiple_inheitence\obj\Debug\net7.0\refint\b_multiple_inheitence.dll
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\b_multiple_inheitence\obj\Debug\net7.0\b_multiple_inheitence.pdb
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\b_multiple_inheitence\obj\Debug\net7.0\b_multiple_inheitence.genruntimeconfig.cache
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\b_multiple_inheitence\obj\Debug\net7.0\ref\b_multiple_inheitence.dll

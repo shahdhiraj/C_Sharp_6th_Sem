@@ -1,0 +1,15 @@
+C:\Users\DKPC2022\Desktop\C#\c_hirerarchical_inheritence\bin\Debug\net7.0\c_hirerarchical_inheritence.exe
+C:\Users\DKPC2022\Desktop\C#\c_hirerarchical_inheritence\bin\Debug\net7.0\c_hirerarchical_inheritence.deps.json
+C:\Users\DKPC2022\Desktop\C#\c_hirerarchical_inheritence\bin\Debug\net7.0\c_hirerarchical_inheritence.runtimeconfig.json
+C:\Users\DKPC2022\Desktop\C#\c_hirerarchical_inheritence\bin\Debug\net7.0\c_hirerarchical_inheritence.dll
+C:\Users\DKPC2022\Desktop\C#\c_hirerarchical_inheritence\bin\Debug\net7.0\c_hirerarchical_inheritence.pdb
+C:\Users\DKPC2022\Desktop\C#\c_hirerarchical_inheritence\obj\Debug\net7.0\c_hirerarchical_inheritence.csproj.AssemblyReference.cache
+C:\Users\DKPC2022\Desktop\C#\c_hirerarchical_inheritence\obj\Debug\net7.0\c_hirerarchical_inheritence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DKPC2022\Desktop\C#\c_hirerarchical_inheritence\obj\Debug\net7.0\c_hirerarchical_inheritence.AssemblyInfoInputs.cache
+C:\Users\DKPC2022\Desktop\C#\c_hirerarchical_inheritence\obj\Debug\net7.0\c_hirerarchical_inheritence.AssemblyInfo.cs
+C:\Users\DKPC2022\Desktop\C#\c_hirerarchical_inheritence\obj\Debug\net7.0\c_hirerarchical_inheritence.csproj.CoreCompileInputs.cache
+C:\Users\DKPC2022\Desktop\C#\c_hirerarchical_inheritence\obj\Debug\net7.0\c_hirerarchical_inheritence.dll
+C:\Users\DKPC2022\Desktop\C#\c_hirerarchical_inheritence\obj\Debug\net7.0\refint\c_hirerarchical_inheritence.dll
+C:\Users\DKPC2022\Desktop\C#\c_hirerarchical_inheritence\obj\Debug\net7.0\c_hirerarchical_inheritence.pdb
+C:\Users\DKPC2022\Desktop\C#\c_hirerarchical_inheritence\obj\Debug\net7.0\c_hirerarchical_inheritence.genruntimeconfig.cache
+C:\Users\DKPC2022\Desktop\C#\c_hirerarchical_inheritence\obj\Debug\net7.0\ref\c_hirerarchical_inheritence.dll

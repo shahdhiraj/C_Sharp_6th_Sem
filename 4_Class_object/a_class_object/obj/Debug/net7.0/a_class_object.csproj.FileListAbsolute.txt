@@ -1,0 +1,15 @@
+C:\Users\DKPC2022\Desktop\C#\4_Class_object\a_class_object\obj\Debug\net7.0\a_class_object.csproj.AssemblyReference.cache
+C:\Users\DKPC2022\Desktop\C#\4_Class_object\a_class_object\obj\Debug\net7.0\a_class_object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DKPC2022\Desktop\C#\4_Class_object\a_class_object\obj\Debug\net7.0\a_class_object.AssemblyInfoInputs.cache
+C:\Users\DKPC2022\Desktop\C#\4_Class_object\a_class_object\obj\Debug\net7.0\a_class_object.AssemblyInfo.cs
+C:\Users\DKPC2022\Desktop\C#\4_Class_object\a_class_object\obj\Debug\net7.0\a_class_object.csproj.CoreCompileInputs.cache
+C:\Users\DKPC2022\Desktop\C#\4_Class_object\a_class_object\bin\Debug\net7.0\a_class_object.exe
+C:\Users\DKPC2022\Desktop\C#\4_Class_object\a_class_object\bin\Debug\net7.0\a_class_object.deps.json
+C:\Users\DKPC2022\Desktop\C#\4_Class_object\a_class_object\bin\Debug\net7.0\a_class_object.runtimeconfig.json
+C:\Users\DKPC2022\Desktop\C#\4_Class_object\a_class_object\bin\Debug\net7.0\a_class_object.dll
+C:\Users\DKPC2022\Desktop\C#\4_Class_object\a_class_object\bin\Debug\net7.0\a_class_object.pdb
+C:\Users\DKPC2022\Desktop\C#\4_Class_object\a_class_object\obj\Debug\net7.0\a_class_object.dll
+C:\Users\DKPC2022\Desktop\C#\4_Class_object\a_class_object\obj\Debug\net7.0\refint\a_class_object.dll
+C:\Users\DKPC2022\Desktop\C#\4_Class_object\a_class_object\obj\Debug\net7.0\a_class_object.pdb
+C:\Users\DKPC2022\Desktop\C#\4_Class_object\a_class_object\obj\Debug\net7.0\a_class_object.genruntimeconfig.cache
+C:\Users\DKPC2022\Desktop\C#\4_Class_object\a_class_object\obj\Debug\net7.0\ref\a_class_object.dll

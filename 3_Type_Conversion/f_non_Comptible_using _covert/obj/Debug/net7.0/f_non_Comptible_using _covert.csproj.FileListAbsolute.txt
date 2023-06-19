@@ -1,0 +1,15 @@
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\f_non_Comptible_using _covert\bin\Debug\net7.0\f_non_Comptible_using _covert.exe
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\f_non_Comptible_using _covert\bin\Debug\net7.0\f_non_Comptible_using _covert.deps.json
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\f_non_Comptible_using _covert\bin\Debug\net7.0\f_non_Comptible_using _covert.runtimeconfig.json
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\f_non_Comptible_using _covert\bin\Debug\net7.0\f_non_Comptible_using _covert.dll
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\f_non_Comptible_using _covert\bin\Debug\net7.0\f_non_Comptible_using _covert.pdb
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\f_non_Comptible_using _covert\obj\Debug\net7.0\f_non_Comptible_using _covert.csproj.AssemblyReference.cache
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\f_non_Comptible_using _covert\obj\Debug\net7.0\f_non_Comptible_using _covert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\f_non_Comptible_using _covert\obj\Debug\net7.0\f_non_Comptible_using _covert.AssemblyInfoInputs.cache
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\f_non_Comptible_using _covert\obj\Debug\net7.0\f_non_Comptible_using _covert.AssemblyInfo.cs
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\f_non_Comptible_using _covert\obj\Debug\net7.0\f_non_Comptible_using _covert.csproj.CoreCompileInputs.cache
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\f_non_Comptible_using _covert\obj\Debug\net7.0\f_non_Comptible_using _covert.dll
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\f_non_Comptible_using _covert\obj\Debug\net7.0\refint\f_non_Comptible_using _covert.dll
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\f_non_Comptible_using _covert\obj\Debug\net7.0\f_non_Comptible_using _covert.pdb
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\f_non_Comptible_using _covert\obj\Debug\net7.0\f_non_Comptible_using _covert.genruntimeconfig.cache
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\f_non_Comptible_using _covert\obj\Debug\net7.0\ref\f_non_Comptible_using _covert.dll

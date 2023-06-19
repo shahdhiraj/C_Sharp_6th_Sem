@@ -1,0 +1,15 @@
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\f_single_accessing_parent_method\bin\Debug\net7.0\f_single_accessing_parent_method.exe
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\f_single_accessing_parent_method\bin\Debug\net7.0\f_single_accessing_parent_method.deps.json
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\f_single_accessing_parent_method\bin\Debug\net7.0\f_single_accessing_parent_method.runtimeconfig.json
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\f_single_accessing_parent_method\bin\Debug\net7.0\f_single_accessing_parent_method.dll
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\f_single_accessing_parent_method\bin\Debug\net7.0\f_single_accessing_parent_method.pdb
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\f_single_accessing_parent_method\obj\Debug\net7.0\f_single_accessing_parent_method.csproj.AssemblyReference.cache
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\f_single_accessing_parent_method\obj\Debug\net7.0\f_single_accessing_parent_method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\f_single_accessing_parent_method\obj\Debug\net7.0\f_single_accessing_parent_method.AssemblyInfoInputs.cache
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\f_single_accessing_parent_method\obj\Debug\net7.0\f_single_accessing_parent_method.AssemblyInfo.cs
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\f_single_accessing_parent_method\obj\Debug\net7.0\f_single_accessing_parent_method.csproj.CoreCompileInputs.cache
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\f_single_accessing_parent_method\obj\Debug\net7.0\f_single_accessing_parent_method.dll
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\f_single_accessing_parent_method\obj\Debug\net7.0\refint\f_single_accessing_parent_method.dll
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\f_single_accessing_parent_method\obj\Debug\net7.0\f_single_accessing_parent_method.pdb
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\f_single_accessing_parent_method\obj\Debug\net7.0\f_single_accessing_parent_method.genruntimeconfig.cache
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\f_single_accessing_parent_method\obj\Debug\net7.0\ref\f_single_accessing_parent_method.dll

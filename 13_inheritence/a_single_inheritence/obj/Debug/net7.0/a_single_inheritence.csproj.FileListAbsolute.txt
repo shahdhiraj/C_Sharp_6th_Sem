@@ -1,0 +1,15 @@
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\a_single_inheritence\bin\Debug\net7.0\a_single_inheritence.exe
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\a_single_inheritence\bin\Debug\net7.0\a_single_inheritence.deps.json
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\a_single_inheritence\bin\Debug\net7.0\a_single_inheritence.runtimeconfig.json
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\a_single_inheritence\bin\Debug\net7.0\a_single_inheritence.dll
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\a_single_inheritence\bin\Debug\net7.0\a_single_inheritence.pdb
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\a_single_inheritence\obj\Debug\net7.0\a_single_inheritence.csproj.AssemblyReference.cache
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\a_single_inheritence\obj\Debug\net7.0\a_single_inheritence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\a_single_inheritence\obj\Debug\net7.0\a_single_inheritence.AssemblyInfoInputs.cache
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\a_single_inheritence\obj\Debug\net7.0\a_single_inheritence.AssemblyInfo.cs
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\a_single_inheritence\obj\Debug\net7.0\a_single_inheritence.csproj.CoreCompileInputs.cache
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\a_single_inheritence\obj\Debug\net7.0\a_single_inheritence.dll
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\a_single_inheritence\obj\Debug\net7.0\refint\a_single_inheritence.dll
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\a_single_inheritence\obj\Debug\net7.0\a_single_inheritence.pdb
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\a_single_inheritence\obj\Debug\net7.0\a_single_inheritence.genruntimeconfig.cache
+C:\Users\DKPC2022\Desktop\C#\13_inheritence\a_single_inheritence\obj\Debug\net7.0\ref\a_single_inheritence.dll

@@ -1,0 +1,15 @@
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\g_non_Comptible_using _covert_class\obj\Debug\net7.0\g_non_Comptible_using _covert_class.csproj.AssemblyReference.cache
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\g_non_Comptible_using _covert_class\obj\Debug\net7.0\g_non_Comptible_using _covert_class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\g_non_Comptible_using _covert_class\obj\Debug\net7.0\g_non_Comptible_using _covert_class.AssemblyInfoInputs.cache
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\g_non_Comptible_using _covert_class\obj\Debug\net7.0\g_non_Comptible_using _covert_class.AssemblyInfo.cs
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\g_non_Comptible_using _covert_class\obj\Debug\net7.0\g_non_Comptible_using _covert_class.csproj.CoreCompileInputs.cache
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\g_non_Comptible_using _covert_class\bin\Debug\net7.0\g_non_Comptible_using _covert_class.exe
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\g_non_Comptible_using _covert_class\bin\Debug\net7.0\g_non_Comptible_using _covert_class.deps.json
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\g_non_Comptible_using _covert_class\bin\Debug\net7.0\g_non_Comptible_using _covert_class.runtimeconfig.json
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\g_non_Comptible_using _covert_class\bin\Debug\net7.0\g_non_Comptible_using _covert_class.dll
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\g_non_Comptible_using _covert_class\bin\Debug\net7.0\g_non_Comptible_using _covert_class.pdb
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\g_non_Comptible_using _covert_class\obj\Debug\net7.0\g_non_Comptible_using _covert_class.dll
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\g_non_Comptible_using _covert_class\obj\Debug\net7.0\refint\g_non_Comptible_using _covert_class.dll
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\g_non_Comptible_using _covert_class\obj\Debug\net7.0\g_non_Comptible_using _covert_class.pdb
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\g_non_Comptible_using _covert_class\obj\Debug\net7.0\g_non_Comptible_using _covert_class.genruntimeconfig.cache
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\g_non_Comptible_using _covert_class\obj\Debug\net7.0\ref\g_non_Comptible_using _covert_class.dll

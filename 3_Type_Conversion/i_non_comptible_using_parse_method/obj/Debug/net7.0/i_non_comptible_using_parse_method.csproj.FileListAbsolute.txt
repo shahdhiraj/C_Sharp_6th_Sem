@@ -1,0 +1,15 @@
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\i_non_comptible_using_parse_method\bin\Debug\net7.0\i_non_comptible_using_parse_method.exe
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\i_non_comptible_using_parse_method\bin\Debug\net7.0\i_non_comptible_using_parse_method.deps.json
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\i_non_comptible_using_parse_method\bin\Debug\net7.0\i_non_comptible_using_parse_method.runtimeconfig.json
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\i_non_comptible_using_parse_method\bin\Debug\net7.0\i_non_comptible_using_parse_method.dll
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\i_non_comptible_using_parse_method\bin\Debug\net7.0\i_non_comptible_using_parse_method.pdb
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\i_non_comptible_using_parse_method\obj\Debug\net7.0\i_non_comptible_using_parse_method.csproj.AssemblyReference.cache
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\i_non_comptible_using_parse_method\obj\Debug\net7.0\i_non_comptible_using_parse_method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\i_non_comptible_using_parse_method\obj\Debug\net7.0\i_non_comptible_using_parse_method.AssemblyInfoInputs.cache
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\i_non_comptible_using_parse_method\obj\Debug\net7.0\i_non_comptible_using_parse_method.AssemblyInfo.cs
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\i_non_comptible_using_parse_method\obj\Debug\net7.0\i_non_comptible_using_parse_method.csproj.CoreCompileInputs.cache
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\i_non_comptible_using_parse_method\obj\Debug\net7.0\i_non_comptible_using_parse_method.dll
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\i_non_comptible_using_parse_method\obj\Debug\net7.0\refint\i_non_comptible_using_parse_method.dll
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\i_non_comptible_using_parse_method\obj\Debug\net7.0\i_non_comptible_using_parse_method.pdb
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\i_non_comptible_using_parse_method\obj\Debug\net7.0\i_non_comptible_using_parse_method.genruntimeconfig.cache
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\i_non_comptible_using_parse_method\obj\Debug\net7.0\ref\i_non_comptible_using_parse_method.dll

@@ -1,0 +1,15 @@
+C:\Users\DKPC2022\Desktop\C#\1_Basics\b_hello_Sanothimi\bin\Debug\net7.0\b_hello_Sanothimi.exe
+C:\Users\DKPC2022\Desktop\C#\1_Basics\b_hello_Sanothimi\bin\Debug\net7.0\b_hello_Sanothimi.deps.json
+C:\Users\DKPC2022\Desktop\C#\1_Basics\b_hello_Sanothimi\bin\Debug\net7.0\b_hello_Sanothimi.runtimeconfig.json
+C:\Users\DKPC2022\Desktop\C#\1_Basics\b_hello_Sanothimi\bin\Debug\net7.0\b_hello_Sanothimi.dll
+C:\Users\DKPC2022\Desktop\C#\1_Basics\b_hello_Sanothimi\bin\Debug\net7.0\b_hello_Sanothimi.pdb
+C:\Users\DKPC2022\Desktop\C#\1_Basics\b_hello_Sanothimi\obj\Debug\net7.0\b_hello_Sanothimi.csproj.AssemblyReference.cache
+C:\Users\DKPC2022\Desktop\C#\1_Basics\b_hello_Sanothimi\obj\Debug\net7.0\b_hello_Sanothimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DKPC2022\Desktop\C#\1_Basics\b_hello_Sanothimi\obj\Debug\net7.0\b_hello_Sanothimi.AssemblyInfoInputs.cache
+C:\Users\DKPC2022\Desktop\C#\1_Basics\b_hello_Sanothimi\obj\Debug\net7.0\b_hello_Sanothimi.AssemblyInfo.cs
+C:\Users\DKPC2022\Desktop\C#\1_Basics\b_hello_Sanothimi\obj\Debug\net7.0\b_hello_Sanothimi.csproj.CoreCompileInputs.cache
+C:\Users\DKPC2022\Desktop\C#\1_Basics\b_hello_Sanothimi\obj\Debug\net7.0\b_hello_Sanothimi.dll
+C:\Users\DKPC2022\Desktop\C#\1_Basics\b_hello_Sanothimi\obj\Debug\net7.0\refint\b_hello_Sanothimi.dll
+C:\Users\DKPC2022\Desktop\C#\1_Basics\b_hello_Sanothimi\obj\Debug\net7.0\b_hello_Sanothimi.pdb
+C:\Users\DKPC2022\Desktop\C#\1_Basics\b_hello_Sanothimi\obj\Debug\net7.0\b_hello_Sanothimi.genruntimeconfig.cache
+C:\Users\DKPC2022\Desktop\C#\1_Basics\b_hello_Sanothimi\obj\Debug\net7.0\ref\b_hello_Sanothimi.dll

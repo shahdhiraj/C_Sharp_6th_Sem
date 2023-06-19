@@ -1,0 +1,15 @@
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\h_while_20_2\bin\Debug\net7.0\h_while_20_2.exe
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\h_while_20_2\bin\Debug\net7.0\h_while_20_2.deps.json
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\h_while_20_2\bin\Debug\net7.0\h_while_20_2.runtimeconfig.json
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\h_while_20_2\bin\Debug\net7.0\h_while_20_2.dll
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\h_while_20_2\bin\Debug\net7.0\h_while_20_2.pdb
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\h_while_20_2\obj\Debug\net7.0\h_while_20_2.csproj.AssemblyReference.cache
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\h_while_20_2\obj\Debug\net7.0\h_while_20_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\h_while_20_2\obj\Debug\net7.0\h_while_20_2.AssemblyInfoInputs.cache
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\h_while_20_2\obj\Debug\net7.0\h_while_20_2.AssemblyInfo.cs
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\h_while_20_2\obj\Debug\net7.0\h_while_20_2.csproj.CoreCompileInputs.cache
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\h_while_20_2\obj\Debug\net7.0\h_while_20_2.dll
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\h_while_20_2\obj\Debug\net7.0\refint\h_while_20_2.dll
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\h_while_20_2\obj\Debug\net7.0\h_while_20_2.pdb
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\h_while_20_2\obj\Debug\net7.0\h_while_20_2.genruntimeconfig.cache
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\h_while_20_2\obj\Debug\net7.0\ref\h_while_20_2.dll

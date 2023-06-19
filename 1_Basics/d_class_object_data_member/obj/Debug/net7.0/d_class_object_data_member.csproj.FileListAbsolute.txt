@@ -1,0 +1,15 @@
+C:\Users\DKPC2022\Desktop\C#\1_Basics\d_class_object_data_member\bin\Debug\net7.0\d_class_object_data_member.exe
+C:\Users\DKPC2022\Desktop\C#\1_Basics\d_class_object_data_member\bin\Debug\net7.0\d_class_object_data_member.deps.json
+C:\Users\DKPC2022\Desktop\C#\1_Basics\d_class_object_data_member\bin\Debug\net7.0\d_class_object_data_member.runtimeconfig.json
+C:\Users\DKPC2022\Desktop\C#\1_Basics\d_class_object_data_member\bin\Debug\net7.0\d_class_object_data_member.dll
+C:\Users\DKPC2022\Desktop\C#\1_Basics\d_class_object_data_member\bin\Debug\net7.0\d_class_object_data_member.pdb
+C:\Users\DKPC2022\Desktop\C#\1_Basics\d_class_object_data_member\obj\Debug\net7.0\d_class_object_data_member.csproj.AssemblyReference.cache
+C:\Users\DKPC2022\Desktop\C#\1_Basics\d_class_object_data_member\obj\Debug\net7.0\d_class_object_data_member.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DKPC2022\Desktop\C#\1_Basics\d_class_object_data_member\obj\Debug\net7.0\d_class_object_data_member.AssemblyInfoInputs.cache
+C:\Users\DKPC2022\Desktop\C#\1_Basics\d_class_object_data_member\obj\Debug\net7.0\d_class_object_data_member.AssemblyInfo.cs
+C:\Users\DKPC2022\Desktop\C#\1_Basics\d_class_object_data_member\obj\Debug\net7.0\d_class_object_data_member.csproj.CoreCompileInputs.cache
+C:\Users\DKPC2022\Desktop\C#\1_Basics\d_class_object_data_member\obj\Debug\net7.0\d_class_object_data_member.dll
+C:\Users\DKPC2022\Desktop\C#\1_Basics\d_class_object_data_member\obj\Debug\net7.0\refint\d_class_object_data_member.dll
+C:\Users\DKPC2022\Desktop\C#\1_Basics\d_class_object_data_member\obj\Debug\net7.0\d_class_object_data_member.pdb
+C:\Users\DKPC2022\Desktop\C#\1_Basics\d_class_object_data_member\obj\Debug\net7.0\d_class_object_data_member.genruntimeconfig.cache
+C:\Users\DKPC2022\Desktop\C#\1_Basics\d_class_object_data_member\obj\Debug\net7.0\ref\d_class_object_data_member.dll

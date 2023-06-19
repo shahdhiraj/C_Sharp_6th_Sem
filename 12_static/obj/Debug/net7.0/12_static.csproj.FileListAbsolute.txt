@@ -1,0 +1,15 @@
+C:\Users\DKPC2022\Desktop\C#\12_static\bin\Debug\net7.0\12_static.exe
+C:\Users\DKPC2022\Desktop\C#\12_static\bin\Debug\net7.0\12_static.deps.json
+C:\Users\DKPC2022\Desktop\C#\12_static\bin\Debug\net7.0\12_static.runtimeconfig.json
+C:\Users\DKPC2022\Desktop\C#\12_static\bin\Debug\net7.0\12_static.dll
+C:\Users\DKPC2022\Desktop\C#\12_static\bin\Debug\net7.0\12_static.pdb
+C:\Users\DKPC2022\Desktop\C#\12_static\obj\Debug\net7.0\12_static.csproj.AssemblyReference.cache
+C:\Users\DKPC2022\Desktop\C#\12_static\obj\Debug\net7.0\12_static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DKPC2022\Desktop\C#\12_static\obj\Debug\net7.0\12_static.AssemblyInfoInputs.cache
+C:\Users\DKPC2022\Desktop\C#\12_static\obj\Debug\net7.0\12_static.AssemblyInfo.cs
+C:\Users\DKPC2022\Desktop\C#\12_static\obj\Debug\net7.0\12_static.csproj.CoreCompileInputs.cache
+C:\Users\DKPC2022\Desktop\C#\12_static\obj\Debug\net7.0\12_static.dll
+C:\Users\DKPC2022\Desktop\C#\12_static\obj\Debug\net7.0\refint\12_static.dll
+C:\Users\DKPC2022\Desktop\C#\12_static\obj\Debug\net7.0\12_static.pdb
+C:\Users\DKPC2022\Desktop\C#\12_static\obj\Debug\net7.0\12_static.genruntimeconfig.cache
+C:\Users\DKPC2022\Desktop\C#\12_static\obj\Debug\net7.0\ref\12_static.dll

@@ -1,0 +1,15 @@
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\d_explicit\bin\Debug\net7.0\d_explicit.exe
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\d_explicit\bin\Debug\net7.0\d_explicit.deps.json
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\d_explicit\bin\Debug\net7.0\d_explicit.runtimeconfig.json
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\d_explicit\bin\Debug\net7.0\d_explicit.dll
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\d_explicit\bin\Debug\net7.0\d_explicit.pdb
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\d_explicit\obj\Debug\net7.0\d_explicit.csproj.AssemblyReference.cache
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\d_explicit\obj\Debug\net7.0\d_explicit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\d_explicit\obj\Debug\net7.0\d_explicit.AssemblyInfoInputs.cache
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\d_explicit\obj\Debug\net7.0\d_explicit.AssemblyInfo.cs
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\d_explicit\obj\Debug\net7.0\d_explicit.csproj.CoreCompileInputs.cache
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\d_explicit\obj\Debug\net7.0\d_explicit.dll
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\d_explicit\obj\Debug\net7.0\refint\d_explicit.dll
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\d_explicit\obj\Debug\net7.0\d_explicit.pdb
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\d_explicit\obj\Debug\net7.0\d_explicit.genruntimeconfig.cache
+C:\Users\DKPC2022\Desktop\C#\3_Type_Conversion\d_explicit\obj\Debug\net7.0\ref\d_explicit.dll

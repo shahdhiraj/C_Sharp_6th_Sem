@@ -1,0 +1,15 @@
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\e_switch_integer\bin\Debug\net7.0\e_switch_integer.exe
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\e_switch_integer\bin\Debug\net7.0\e_switch_integer.deps.json
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\e_switch_integer\bin\Debug\net7.0\e_switch_integer.runtimeconfig.json
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\e_switch_integer\bin\Debug\net7.0\e_switch_integer.dll
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\e_switch_integer\bin\Debug\net7.0\e_switch_integer.pdb
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\e_switch_integer\obj\Debug\net7.0\e_switch_integer.csproj.AssemblyReference.cache
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\e_switch_integer\obj\Debug\net7.0\e_switch_integer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\e_switch_integer\obj\Debug\net7.0\e_switch_integer.AssemblyInfoInputs.cache
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\e_switch_integer\obj\Debug\net7.0\e_switch_integer.AssemblyInfo.cs
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\e_switch_integer\obj\Debug\net7.0\e_switch_integer.csproj.CoreCompileInputs.cache
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\e_switch_integer\obj\Debug\net7.0\e_switch_integer.dll
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\e_switch_integer\obj\Debug\net7.0\refint\e_switch_integer.dll
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\e_switch_integer\obj\Debug\net7.0\e_switch_integer.pdb
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\e_switch_integer\obj\Debug\net7.0\e_switch_integer.genruntimeconfig.cache
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\e_switch_integer\obj\Debug\net7.0\ref\e_switch_integer.dll

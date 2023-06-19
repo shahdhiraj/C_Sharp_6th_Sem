@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\DKPC2022\\Desktop\\C#\\2_Control_Statement\\b_if_else_positive_negative\\b_if_else_positive_negative.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\DKPC2022\\Desktop\\C#\\2_Control_Statement\\b_if_else_positive_negative\\b_if_else_positive_negative.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DKPC2022\\Desktop\\C#\\2_Control_Statement\\b_if_else_positive_negative\\b_if_else_positive_negative.csproj",
+        "projectName": "b_if_else_positive_negative",
+        "projectPath": "C:\\Users\\DKPC2022\\Desktop\\C#\\2_Control_Statement\\b_if_else_positive_negative\\b_if_else_positive_negative.csproj",
+        "packagesPath": "C:\\Users\\DKPC2022\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DKPC2022\\Desktop\\C#\\2_Control_Statement\\b_if_else_positive_negative\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DKPC2022\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\DKPC2022\Desktop\C#\1_Basics\a_hello_nepal\bin\Debug\net7.0\a_hello_nepal.exe
+C:\Users\DKPC2022\Desktop\C#\1_Basics\a_hello_nepal\bin\Debug\net7.0\a_hello_nepal.deps.json
+C:\Users\DKPC2022\Desktop\C#\1_Basics\a_hello_nepal\bin\Debug\net7.0\a_hello_nepal.runtimeconfig.json
+C:\Users\DKPC2022\Desktop\C#\1_Basics\a_hello_nepal\bin\Debug\net7.0\a_hello_nepal.dll
+C:\Users\DKPC2022\Desktop\C#\1_Basics\a_hello_nepal\bin\Debug\net7.0\a_hello_nepal.pdb
+C:\Users\DKPC2022\Desktop\C#\1_Basics\a_hello_nepal\obj\Debug\net7.0\a_hello_nepal.csproj.AssemblyReference.cache
+C:\Users\DKPC2022\Desktop\C#\1_Basics\a_hello_nepal\obj\Debug\net7.0\a_hello_nepal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DKPC2022\Desktop\C#\1_Basics\a_hello_nepal\obj\Debug\net7.0\a_hello_nepal.AssemblyInfoInputs.cache
+C:\Users\DKPC2022\Desktop\C#\1_Basics\a_hello_nepal\obj\Debug\net7.0\a_hello_nepal.AssemblyInfo.cs
+C:\Users\DKPC2022\Desktop\C#\1_Basics\a_hello_nepal\obj\Debug\net7.0\a_hello_nepal.csproj.CoreCompileInputs.cache
+C:\Users\DKPC2022\Desktop\C#\1_Basics\a_hello_nepal\obj\Debug\net7.0\a_hello_nepal.dll
+C:\Users\DKPC2022\Desktop\C#\1_Basics\a_hello_nepal\obj\Debug\net7.0\refint\a_hello_nepal.dll
+C:\Users\DKPC2022\Desktop\C#\1_Basics\a_hello_nepal\obj\Debug\net7.0\a_hello_nepal.pdb
+C:\Users\DKPC2022\Desktop\C#\1_Basics\a_hello_nepal\obj\Debug\net7.0\a_hello_nepal.genruntimeconfig.cache
+C:\Users\DKPC2022\Desktop\C#\1_Basics\a_hello_nepal\obj\Debug\net7.0\ref\a_hello_nepal.dll

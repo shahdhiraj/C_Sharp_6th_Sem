@@ -1,0 +1,15 @@
+C:\Users\DKPC2022\Desktop\C#\7_constructor\b_Constructor\obj\Debug\net7.0\b_Constructor.csproj.AssemblyReference.cache
+C:\Users\DKPC2022\Desktop\C#\7_constructor\b_Constructor\obj\Debug\net7.0\b_Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DKPC2022\Desktop\C#\7_constructor\b_Constructor\obj\Debug\net7.0\b_Constructor.AssemblyInfoInputs.cache
+C:\Users\DKPC2022\Desktop\C#\7_constructor\b_Constructor\obj\Debug\net7.0\b_Constructor.AssemblyInfo.cs
+C:\Users\DKPC2022\Desktop\C#\7_constructor\b_Constructor\obj\Debug\net7.0\b_Constructor.csproj.CoreCompileInputs.cache
+C:\Users\DKPC2022\Desktop\C#\7_constructor\b_Constructor\bin\Debug\net7.0\b_Constructor.exe
+C:\Users\DKPC2022\Desktop\C#\7_constructor\b_Constructor\bin\Debug\net7.0\b_Constructor.deps.json
+C:\Users\DKPC2022\Desktop\C#\7_constructor\b_Constructor\bin\Debug\net7.0\b_Constructor.runtimeconfig.json
+C:\Users\DKPC2022\Desktop\C#\7_constructor\b_Constructor\bin\Debug\net7.0\b_Constructor.dll
+C:\Users\DKPC2022\Desktop\C#\7_constructor\b_Constructor\bin\Debug\net7.0\b_Constructor.pdb
+C:\Users\DKPC2022\Desktop\C#\7_constructor\b_Constructor\obj\Debug\net7.0\b_Constructor.dll
+C:\Users\DKPC2022\Desktop\C#\7_constructor\b_Constructor\obj\Debug\net7.0\refint\b_Constructor.dll
+C:\Users\DKPC2022\Desktop\C#\7_constructor\b_Constructor\obj\Debug\net7.0\b_Constructor.pdb
+C:\Users\DKPC2022\Desktop\C#\7_constructor\b_Constructor\obj\Debug\net7.0\b_Constructor.genruntimeconfig.cache
+C:\Users\DKPC2022\Desktop\C#\7_constructor\b_Constructor\obj\Debug\net7.0\ref\b_Constructor.dll

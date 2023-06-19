@@ -1,0 +1,15 @@
+C:\Users\DKPC2022\Desktop\C#\17_abstruct\a_abstruct\obj\Debug\net7.0\a_abstruct.csproj.AssemblyReference.cache
+C:\Users\DKPC2022\Desktop\C#\17_abstruct\a_abstruct\obj\Debug\net7.0\a_abstruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DKPC2022\Desktop\C#\17_abstruct\a_abstruct\obj\Debug\net7.0\a_abstruct.AssemblyInfoInputs.cache
+C:\Users\DKPC2022\Desktop\C#\17_abstruct\a_abstruct\obj\Debug\net7.0\a_abstruct.AssemblyInfo.cs
+C:\Users\DKPC2022\Desktop\C#\17_abstruct\a_abstruct\obj\Debug\net7.0\a_abstruct.csproj.CoreCompileInputs.cache
+C:\Users\DKPC2022\Desktop\C#\17_abstruct\a_abstruct\bin\Debug\net7.0\a_abstruct.exe
+C:\Users\DKPC2022\Desktop\C#\17_abstruct\a_abstruct\bin\Debug\net7.0\a_abstruct.deps.json
+C:\Users\DKPC2022\Desktop\C#\17_abstruct\a_abstruct\bin\Debug\net7.0\a_abstruct.runtimeconfig.json
+C:\Users\DKPC2022\Desktop\C#\17_abstruct\a_abstruct\bin\Debug\net7.0\a_abstruct.dll
+C:\Users\DKPC2022\Desktop\C#\17_abstruct\a_abstruct\bin\Debug\net7.0\a_abstruct.pdb
+C:\Users\DKPC2022\Desktop\C#\17_abstruct\a_abstruct\obj\Debug\net7.0\a_abstruct.dll
+C:\Users\DKPC2022\Desktop\C#\17_abstruct\a_abstruct\obj\Debug\net7.0\refint\a_abstruct.dll
+C:\Users\DKPC2022\Desktop\C#\17_abstruct\a_abstruct\obj\Debug\net7.0\a_abstruct.pdb
+C:\Users\DKPC2022\Desktop\C#\17_abstruct\a_abstruct\obj\Debug\net7.0\a_abstruct.genruntimeconfig.cache
+C:\Users\DKPC2022\Desktop\C#\17_abstruct\a_abstruct\obj\Debug\net7.0\ref\a_abstruct.dll

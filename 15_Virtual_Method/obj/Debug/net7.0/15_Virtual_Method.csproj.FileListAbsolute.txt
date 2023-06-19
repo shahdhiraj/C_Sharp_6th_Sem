@@ -1,0 +1,15 @@
+C:\Users\DKPC2022\Desktop\C#\15_Virtual_Method\bin\Debug\net7.0\15_Virtual_Method.exe
+C:\Users\DKPC2022\Desktop\C#\15_Virtual_Method\bin\Debug\net7.0\15_Virtual_Method.deps.json
+C:\Users\DKPC2022\Desktop\C#\15_Virtual_Method\bin\Debug\net7.0\15_Virtual_Method.runtimeconfig.json
+C:\Users\DKPC2022\Desktop\C#\15_Virtual_Method\bin\Debug\net7.0\15_Virtual_Method.dll
+C:\Users\DKPC2022\Desktop\C#\15_Virtual_Method\bin\Debug\net7.0\15_Virtual_Method.pdb
+C:\Users\DKPC2022\Desktop\C#\15_Virtual_Method\obj\Debug\net7.0\15_Virtual_Method.csproj.AssemblyReference.cache
+C:\Users\DKPC2022\Desktop\C#\15_Virtual_Method\obj\Debug\net7.0\15_Virtual_Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DKPC2022\Desktop\C#\15_Virtual_Method\obj\Debug\net7.0\15_Virtual_Method.AssemblyInfoInputs.cache
+C:\Users\DKPC2022\Desktop\C#\15_Virtual_Method\obj\Debug\net7.0\15_Virtual_Method.AssemblyInfo.cs
+C:\Users\DKPC2022\Desktop\C#\15_Virtual_Method\obj\Debug\net7.0\15_Virtual_Method.csproj.CoreCompileInputs.cache
+C:\Users\DKPC2022\Desktop\C#\15_Virtual_Method\obj\Debug\net7.0\15_Virtual_Method.dll
+C:\Users\DKPC2022\Desktop\C#\15_Virtual_Method\obj\Debug\net7.0\refint\15_Virtual_Method.dll
+C:\Users\DKPC2022\Desktop\C#\15_Virtual_Method\obj\Debug\net7.0\15_Virtual_Method.pdb
+C:\Users\DKPC2022\Desktop\C#\15_Virtual_Method\obj\Debug\net7.0\15_Virtual_Method.genruntimeconfig.cache
+C:\Users\DKPC2022\Desktop\C#\15_Virtual_Method\obj\Debug\net7.0\ref\15_Virtual_Method.dll

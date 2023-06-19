@@ -1,0 +1,15 @@
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\j_foreach_character_array\bin\Debug\net7.0\j_foreach_character_array.exe
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\j_foreach_character_array\bin\Debug\net7.0\j_foreach_character_array.deps.json
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\j_foreach_character_array\bin\Debug\net7.0\j_foreach_character_array.runtimeconfig.json
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\j_foreach_character_array\bin\Debug\net7.0\j_foreach_character_array.dll
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\j_foreach_character_array\bin\Debug\net7.0\j_foreach_character_array.pdb
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\j_foreach_character_array\obj\Debug\net7.0\j_foreach_character_array.csproj.AssemblyReference.cache
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\j_foreach_character_array\obj\Debug\net7.0\j_foreach_character_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\j_foreach_character_array\obj\Debug\net7.0\j_foreach_character_array.AssemblyInfoInputs.cache
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\j_foreach_character_array\obj\Debug\net7.0\j_foreach_character_array.AssemblyInfo.cs
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\j_foreach_character_array\obj\Debug\net7.0\j_foreach_character_array.csproj.CoreCompileInputs.cache
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\j_foreach_character_array\obj\Debug\net7.0\j_foreach_character_array.dll
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\j_foreach_character_array\obj\Debug\net7.0\refint\j_foreach_character_array.dll
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\j_foreach_character_array\obj\Debug\net7.0\j_foreach_character_array.pdb
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\j_foreach_character_array\obj\Debug\net7.0\j_foreach_character_array.genruntimeconfig.cache
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\j_foreach_character_array\obj\Debug\net7.0\ref\j_foreach_character_array.dll

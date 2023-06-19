@@ -1,0 +1,15 @@
+C:\Users\DKPC2022\Desktop\C#\1_Basics\e_class_obj_field_method\obj\Debug\net7.0\e_class_obj_field_method.csproj.AssemblyReference.cache
+C:\Users\DKPC2022\Desktop\C#\1_Basics\e_class_obj_field_method\obj\Debug\net7.0\e_class_obj_field_method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DKPC2022\Desktop\C#\1_Basics\e_class_obj_field_method\obj\Debug\net7.0\e_class_obj_field_method.AssemblyInfoInputs.cache
+C:\Users\DKPC2022\Desktop\C#\1_Basics\e_class_obj_field_method\obj\Debug\net7.0\e_class_obj_field_method.AssemblyInfo.cs
+C:\Users\DKPC2022\Desktop\C#\1_Basics\e_class_obj_field_method\obj\Debug\net7.0\e_class_obj_field_method.csproj.CoreCompileInputs.cache
+C:\Users\DKPC2022\Desktop\C#\1_Basics\e_class_obj_field_method\bin\Debug\net7.0\e_class_obj_field_method.exe
+C:\Users\DKPC2022\Desktop\C#\1_Basics\e_class_obj_field_method\bin\Debug\net7.0\e_class_obj_field_method.deps.json
+C:\Users\DKPC2022\Desktop\C#\1_Basics\e_class_obj_field_method\bin\Debug\net7.0\e_class_obj_field_method.runtimeconfig.json
+C:\Users\DKPC2022\Desktop\C#\1_Basics\e_class_obj_field_method\bin\Debug\net7.0\e_class_obj_field_method.dll
+C:\Users\DKPC2022\Desktop\C#\1_Basics\e_class_obj_field_method\bin\Debug\net7.0\e_class_obj_field_method.pdb
+C:\Users\DKPC2022\Desktop\C#\1_Basics\e_class_obj_field_method\obj\Debug\net7.0\e_class_obj_field_method.dll
+C:\Users\DKPC2022\Desktop\C#\1_Basics\e_class_obj_field_method\obj\Debug\net7.0\refint\e_class_obj_field_method.dll
+C:\Users\DKPC2022\Desktop\C#\1_Basics\e_class_obj_field_method\obj\Debug\net7.0\e_class_obj_field_method.pdb
+C:\Users\DKPC2022\Desktop\C#\1_Basics\e_class_obj_field_method\obj\Debug\net7.0\e_class_obj_field_method.genruntimeconfig.cache
+C:\Users\DKPC2022\Desktop\C#\1_Basics\e_class_obj_field_method\obj\Debug\net7.0\ref\e_class_obj_field_method.dll

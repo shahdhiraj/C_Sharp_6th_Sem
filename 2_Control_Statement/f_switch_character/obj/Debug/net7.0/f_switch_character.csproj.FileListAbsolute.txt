@@ -1,0 +1,15 @@
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\f_switch_character\bin\Debug\net7.0\f_switch_character.exe
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\f_switch_character\bin\Debug\net7.0\f_switch_character.deps.json
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\f_switch_character\bin\Debug\net7.0\f_switch_character.runtimeconfig.json
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\f_switch_character\bin\Debug\net7.0\f_switch_character.dll
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\f_switch_character\bin\Debug\net7.0\f_switch_character.pdb
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\f_switch_character\obj\Debug\net7.0\f_switch_character.csproj.AssemblyReference.cache
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\f_switch_character\obj\Debug\net7.0\f_switch_character.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\f_switch_character\obj\Debug\net7.0\f_switch_character.AssemblyInfoInputs.cache
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\f_switch_character\obj\Debug\net7.0\f_switch_character.AssemblyInfo.cs
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\f_switch_character\obj\Debug\net7.0\f_switch_character.csproj.CoreCompileInputs.cache
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\f_switch_character\obj\Debug\net7.0\f_switch_character.dll
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\f_switch_character\obj\Debug\net7.0\refint\f_switch_character.dll
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\f_switch_character\obj\Debug\net7.0\f_switch_character.pdb
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\f_switch_character\obj\Debug\net7.0\f_switch_character.genruntimeconfig.cache
+C:\Users\DKPC2022\Desktop\C#\2_Control_Statement\f_switch_character\obj\Debug\net7.0\ref\f_switch_character.dll
